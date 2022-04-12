@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACE,gBACE,YAAa,CACb,aAAS,CAAT,QAAS,CACT,UAAW,CACZ,aAGC,WAAY,CACZ,iBAAkB","file":"main.54fb9a10.chunk.css","sourcesContent":[".App {\n  &__container {\n    display: flex;\n    gap: 10px;\n    width: 25vw;\n  }\n\n  &__button {\n    flex-grow: 1;\n    padding: 10px 15px;\n  }\n}\n"]}
